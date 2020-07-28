@@ -1,0 +1,28 @@
+{
+  "name": "recruiter-game-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philvc/recruiter-game-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philvc/recruiter-game-server/issues"
+  },
+  "homepage": "https://github.com/philvc/recruiter-game-server#readme",
+  "dependencies": {
+    "apollo-server": "^2.12.0",
+    "aws-sdk": "^2.661.0",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.0.0",
+    "mongoose": "^5.9.9",
+    "slugify": "^1.4.0",
+    "uri-js": "^4.2.2"
+  }
+}
